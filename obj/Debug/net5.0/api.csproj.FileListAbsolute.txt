@@ -1,0 +1,6 @@
+D:\CLI\api\obj\Debug\net5.0\api.csproj.AssemblyReference.cache
+D:\CLI\api\obj\Debug\net5.0\api.GeneratedMSBuildEditorConfig.editorconfig
+D:\CLI\api\obj\Debug\net5.0\api.AssemblyInfoInputs.cache
+D:\CLI\api\obj\Debug\net5.0\api.AssemblyInfo.cs
+D:\CLI\api\obj\Debug\net5.0\api.csproj.CoreCompileInputs.cache
+D:\CLI\api\obj\Debug\net5.0\api.MvcApplicationPartsAssemblyInfo.cache
